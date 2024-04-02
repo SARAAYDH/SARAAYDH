@@ -1,6 +1,6 @@
 ### Hi there, I am Sara Alotaibi👋
 
-Enthusiastic .NET developer
+Enthusiastic .NET developer. Driven by a passion for coding  & adept at tackling complex problems.
 <h2 class="heading-element" dir="auto">Contact</h2>
 <ul class="contact-list">
     <li class="contact-item">
