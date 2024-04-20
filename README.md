@@ -1,4 +1,4 @@
-### Hi there, I am Sara Alotaibi👋
+# Hi there, I am Sara Alotaibi👋
 
 Enthusiastic .NET developer. Driven by a passion for coding  & adept at tackling complex problems.
 <h2 class="heading-element" dir="auto">Contact</h2>
