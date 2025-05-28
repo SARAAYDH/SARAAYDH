@@ -5,7 +5,7 @@ Enthusiastic web developer. Driven by a passion for coding  & adept at tackling 
 <ul class="contact-list">
     <li class="contact-item">
     <span class="icon"><i class="fas fa-briefcase"></i></span>
-    <a href="https://saraalotaibi.vercel.app">Portfolio <i class="fas fa-link"></i></a>
+    <a href="https://saraaydh.netlify.app/">Portfolio <i class="fas fa-link"></i></a>
   </li>
   <li class="contact-item">
     <span class="icon"><i class="fab fa-linkedin"></i></span>
