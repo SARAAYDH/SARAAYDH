@@ -3,10 +3,6 @@
 Enthusiastic web developer. Driven by a passion for coding  & adept at tackling complex problems.
 <h2 class="heading-element" dir="auto">Contact</h2>
 <ul class="contact-list">
-    <li class="contact-item">
-    <span class="icon"><i class="fas fa-briefcase"></i></span>
-    <a href="https://saraaydh.netlify.app/">Portfolio <i class="fas fa-link"></i></a>
-  </li>
   <li class="contact-item">
     <span class="icon"><i class="fab fa-linkedin"></i></span>
     <a href="https://www.linkedin.com/in/sara-aydh">LinkedIn <i class="fab fa-linkedin-in"></i></a>
