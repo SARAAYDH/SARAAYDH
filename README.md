@@ -1,17 +1,25 @@
 # Hi there, I am Sara Alotaibi👋
 
 Enthusiastic web developer. Driven by a passion for coding  & adept at tackling complex problems.
-<h2 class="heading-element" dir="auto">Contact</h2>
-<ul class="contact-list">
-  <li class="contact-item">
-    <span class="icon"><i class="fab fa-linkedin"></i></span>
-    <a href="https://www.linkedin.com/in/sara-aydh">LinkedIn <i class="fab fa-linkedin-in"></i></a>
+<h2 class="heading-element" dir="auto">🔗 Connect with me</h2>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/sara-aydh/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+    </a>
   </li>
-  <li class="contact-item">
-    <span class="icon"><i class="fas fa-code"></i></span>
-    <a href="https://leetcode.com/saraaydh">LeetCode <i class="fas fa-code"></i></a>
+    <li style="display:inline;">
+    <a href="https://x.com/SaraAydh">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="22" />
+    </a>
+  </li>
+  <li style="display:inline;">
+    <a href="https://www.tiktok.com/@saraaydh">
+    <img src="https://www.svgrepo.com/show/473806/tiktok.svg" width="22" />
+    </a>
   </li>
 </ul>
+
 <!--
 * *SARAAYDH/SARAAYDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
