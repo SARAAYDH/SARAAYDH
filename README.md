@@ -1,6 +1,5 @@
 # Hi there, I am Sara Alotaibi👋
 
-Enthusiastic web developer. Driven by a passion for coding  & adept at tackling complex problems.
 <h2 class="heading-element" dir="auto">🔗 Connect with me</h2>
 <ul>
   <li>
